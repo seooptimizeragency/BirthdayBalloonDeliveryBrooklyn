@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://birthdayballoondeliverybrooklyn.com/sitemap.xml
